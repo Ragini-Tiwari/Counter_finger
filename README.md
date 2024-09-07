@@ -3,7 +3,6 @@
 A real-time finger counting application using OpenCV and MediaPipe.
 
 ## Requirements
-
 - Python 3.7+
 - OpenCV
 - MediaPipe
