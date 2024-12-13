@@ -10,7 +10,6 @@ A real-time finger counting application using OpenCV and MediaPipe.
 - NumPy
 ## Installation
 
-```sh
 # Clone the repository
 git clone https://github.com/Ragini-Tiwari/Counter_finger.git
 cd Counter_finger
