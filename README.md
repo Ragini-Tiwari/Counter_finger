@@ -7,6 +7,7 @@ A real-time finger counting application using OpenCV and MediaPipe.
 - OpenCV
 - MediaPipe
 - NumPy
+
 ## Installation
 
 # Clone the repository
